@@ -1,4 +1,4 @@
-### Howdy I'm Henry and I make games,
+### 👋 Howdy I'm Henry and I make games,
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henry9836&theme=blue-green)
 
