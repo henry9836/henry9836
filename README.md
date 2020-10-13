@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=henry9836&theme=blue-green)
+
 <!--
 **henry9836/henry9836** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
