@@ -1,6 +1,6 @@
 ### 👋 Howdy I'm Henry and I make games,
 
-[![Henry's github stats](https://github-readme-stats.vercel.app/api?username=henry9836&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Henry's github stats](https://github-readme-stats.vercel.app/api?username=henry9836&theme=synthwave&show_icons=true&custom_title=👋 Howdy I'm Henry and I make games,)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **henry9836/henry9836** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
