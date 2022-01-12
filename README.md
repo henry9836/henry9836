@@ -5,8 +5,8 @@
 
 
 
-<a href="https://sleep-deficiency-studio.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/henry9836/henry9836/main/docs/itch-io.png" width="52vh" height="52vh"> </a>
-<a href="https://www.linkedin.com/in/henry-oli/" target="_blank"><img src="https://raw.githubusercontent.com/henry9836/henry9836/main/docs/linkedin.png" width="52vh" height="52vh"></a>
+<a href="https://sleep-deficiency-studio.itch.io/" target="_blank">![Itch.io](https://img.shields.io/badge/-LinkedIn-blue?logo=Itch.io&logoColor=FFFFFF&labelColor=FA5C5C&color=grey&style=for-the-badge) </a>
+<a href="https://www.linkedin.com/in/henry-oli/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=FFFFFF&labelColor=0a66c2&color=grey&style=for-the-badge) </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=henry9836&left_color=grey&right_color=green)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/henry9836)](https://badges.pufler.dev)
