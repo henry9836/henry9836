@@ -6,3 +6,4 @@
 <a href="https://sleep-deficiency-studio.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/henry9836/henry9836/main/docs/itch-io.png" width="52vh" height="52vh"> </a>
 <a href="https://www.linkedin.com/in/henry-oli/" target="_blank"><img src="https://raw.githubusercontent.com/henry9836/henry9836/main/docs/linkedin.png" width="52vh" height="52vh"></a>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=henry9836&left_color=grey&right_color=green)
