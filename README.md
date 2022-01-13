@@ -1,12 +1,18 @@
+[![Header](https://img.shields.io/badge/-Statistics-792EE5?logo=fastapi&logoColor=ffffff&style=for-the-badge)]()
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henry9836&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry9836&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+------
+[![Header](https://img.shields.io/badge/-Social-792EE5?logo=livechat&logoColor=ffffff&style=for-the-badge)]()
 
 <a href="https://sleep-deficiency-studio.itch.io/" target="_blank">![Itch.io](https://img.shields.io/badge/-Itch.io-blue?logo=Itch.io&logoColor=FFFFFF&labelColor=FA5C5C&color=grey&style=for-the-badge) </a>
 <a href="https://www.linkedin.com/in/henry-oli/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=FFFFFF&labelColor=0a66c2&color=grey&style=for-the-badge) </a>
 <a href="https://www.youtube.com/channel/UCdaILXjGeEoBjOC0pGRsLFA" target="_blank">![Itch.io](https://img.shields.io/badge/-YouTube-blue?logo=YouTube&logoColor=FFFFFF&labelColor=FF0000&color=grey&style=for-the-badge) </a>
 
-[![Header](https://img.shields.io/badge/-TECHNOLOGIES-792EE5?logo=PyTorchLightning&logoColor=ffffff)]()
+------
+[![Header](https://img.shields.io/badge/-TECHNOLOGIES-792EE5?logo=PyTorchLightning&logoColor=ffffff&style=for-the-badge)]()
 
 [![c](https://img.shields.io/badge/--A8B9CC?logo=C&logoColor=ffffff)]()
 [![c++](https://img.shields.io/badge/--00599C?logo=C%2B%2B&logoColor=ffffff)]()
@@ -21,6 +27,10 @@
 [![MongoDB](https://img.shields.io/badge/--47A248?logo=mongodb&logoColor=ffffff)]()
 [![Apache](https://img.shields.io/badge/--D22128?logo=Apache&logoColor=ffffff)]()
 [![PHPMySQL](https://img.shields.io/badge/--6C78AF?logo=phpmyadmin&logoColor=ffffff)]()
+
+[![Vultr](https://img.shields.io/badge/--007BFC?logo=Vultr&logoColor=ffffff)]()
+[![VirtualBox](https://img.shields.io/badge/--183A61?logo=VirtualBox&logoColor=ffffff)]()
+[![Synology](https://img.shields.io/badge/--B5B5B6?logo=Synology&logoColor=ffffff)]()
 
 [![ArchLinux](https://img.shields.io/badge/--1793D1?logo=archlinux&logoColor=ffffff)](https://archlinux.org/)
 [![Arduino](https://img.shields.io/badge/--00979D?logo=Arduino&logoColor=ffffff)]()
