@@ -8,7 +8,12 @@
 
 [![Header](https://img.shields.io/badge/-TECHNOLOGIES-792EE5?logo=PyTorchLightning&logoColor=ffffff)](https://archlinux.org/)
 
+[![Apache](https://img.shields.io/badge/--D22128?logo=Apache&logoColor=ffffff)](https://kali.org/)
+[![PHPMySQL](https://img.shields.io/badge/--6C78AF?logo=phpmyadmin&logoColor=ffffff)](https://kali.org/)
+
 [![ArchLinux](https://img.shields.io/badge/--1793D1?logo=archlinux&logoColor=ffffff)](https://archlinux.org/)
+[![Arduino](https://img.shields.io/badge/--00979D?logo=Arduino&logoColor=ffffff)](https://archlinux.org/)
+[![Raspberry Pi](https://img.shields.io/badge/--A22846?logo=raspberrypi&logoColor=ffffff)](https://archlinux.org/)
 [![DebainLinux](https://img.shields.io/badge/--A81D33?logo=debian&logoColor=ffffff)](https://.debian.org/)
 [![KaliLinux](https://img.shields.io/badge/--557C94?logo=kalilinux&logoColor=ffffff)](https://kali.org/)
 
