@@ -31,6 +31,7 @@
 [![Vultr](https://img.shields.io/badge/--007BFC?logo=Vultr&logoColor=ffffff)]()
 [![VirtualBox](https://img.shields.io/badge/--183A61?logo=VirtualBox&logoColor=ffffff)]()
 [![Synology](https://img.shields.io/badge/--B5B5B6?logo=Synology&logoColor=ffffff)]()
+[![WSL](https://img.shields.io/badge/--4D4D4D?logo=WindowsTerminal&logoColor=ffffff)]()
 
 [![ArchLinux](https://img.shields.io/badge/--1793D1?logo=archlinux&logoColor=ffffff)](https://archlinux.org/)
 [![Arduino](https://img.shields.io/badge/--00979D?logo=Arduino&logoColor=ffffff)]()
