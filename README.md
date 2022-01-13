@@ -1,4 +1,4 @@
-[![Header](https://img.shields.io/badge/-Statistics-792EE5?logo=fastapi&logoColor=ffffff&style=for-the-badge)]()
+[![Header](https://img.shields.io/badge/-Live%20Statistics-792EE5?logo=fastapi&logoColor=ffffff&style=for-the-badge)]()
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henry9836&theme=dark)](https://git.io/streak-stats)
 
@@ -7,9 +7,9 @@
 ------
 [![Header](https://img.shields.io/badge/-Social-792EE5?logo=livechat&logoColor=ffffff&style=for-the-badge)]()
 
-<a href="https://sleep-deficiency-studio.itch.io/" target="_blank">![Itch.io](https://img.shields.io/badge/-Itch.io-blue?logo=Itch.io&logoColor=FFFFFF&labelColor=FA5C5C&color=grey&style=for-the-badge) </a>
-<a href="https://www.linkedin.com/in/henry-oli/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=FFFFFF&labelColor=0a66c2&color=grey&style=for-the-badge) </a>
-<a href="https://www.youtube.com/channel/UCdaILXjGeEoBjOC0pGRsLFA" target="_blank">![Itch.io](https://img.shields.io/badge/-YouTube-blue?logo=YouTube&logoColor=FFFFFF&labelColor=FF0000&color=grey&style=for-the-badge) </a>
+<a href="https://sleep-deficiency-studio.itch.io/" target="_blank">![Itch.io](https://img.shields.io/badge/-Itch.io-blue?logo=Itch.io&logoColor=FFFFFF&labelColor=FA5C5C&color=grey&style=flat-square) </a>
+<a href="https://www.linkedin.com/in/henry-oli/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=FFFFFF&labelColor=0a66c2&color=grey&style=flat-square) </a>
+<a href="https://www.youtube.com/channel/UCdaILXjGeEoBjOC0pGRsLFA" target="_blank">![Itch.io](https://img.shields.io/badge/-YouTube-blue?logo=YouTube&logoColor=FFFFFF&labelColor=FF0000&color=grey&style=flat-square) </a>
 
 ------
 [![Header](https://img.shields.io/badge/-TECHNOLOGIES-792EE5?logo=PyTorchLightning&logoColor=ffffff&style=for-the-badge)]()
@@ -39,5 +39,6 @@
 [![KaliLinux](https://img.shields.io/badge/--557C94?logo=kalilinux&logoColor=ffffff)](https://kali.org/)
 [![Windows](https://img.shields.io/badge/--0078D6?logo=windows&logoColor=ffffff)](https://kali.org/)
 
+------
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=henry9836&left_color=grey&right_color=green)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/henry9836)](https://badges.pufler.dev)
