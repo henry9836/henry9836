@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henry9836&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry9836&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry9836&hide=Mathematica,ShaderLab,Objective-C,CMake,HTML,Objective-C%2B%2B,CSS,Smalltalk&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ------
 [![Header](https://img.shields.io/badge/-Social-792EE5?logo=livechat&logoColor=ffffff&style=for-the-badge)]()
