@@ -39,6 +39,8 @@
 [![KaliLinux](https://img.shields.io/badge/--557C94?logo=kalilinux&logoColor=ffffff)](https://kali.org/)
 [![Windows](https://img.shields.io/badge/--0078D6?logo=windows&logoColor=ffffff)](https://kali.org/)
 
+<!--
 ------
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=henry9836&left_color=grey&right_color=green)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/henry9836)](https://badges.pufler.dev)
+-->
