@@ -1,8 +1,5 @@
 [![Header](https://img.shields.io/badge/-Live%20Statistics-792EE5?logo=fastapi&logoColor=ffffff&style=for-the-badge)]()
 
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henry9836&theme=dark&ring=792EE5&fire=6f1ce3&currStreakLabel=792ee5&currStreakNum=7d33e6&border=1c1c1c&sideLabels=792ee5&sideNums=7d33e6)](https://git.io/streak-stats)
--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry9836&hide=Mathematica,ShaderLab,Objective-C,CMake,HTML,Objective-C%2B%2B,CSS,Smalltalk&langs_count=8&layout=compact&theme=dark&border_color=1c1c1c&title_color=8c49e9)](https://github.com/anuraghazra/github-readme-stats)
 
 ------
@@ -13,7 +10,7 @@
 <a href="https://www.youtube.com/channel/UCdaILXjGeEoBjOC0pGRsLFA" target="_blank">![Itch.io](https://img.shields.io/badge/-YouTube-blue?logo=YouTube&logoColor=FFFFFF&labelColor=FF0000&color=grey&style=flat-square) </a>
 
 ------
-[![Header](https://img.shields.io/badge/-TECHNOLOGIES-792EE5?logo=PyTorchLightning&logoColor=ffffff&style=for-the-badge)]()
+[![Header](https://img.shields.io/badge/-TECHNOLOGIES-792EE5?logo=codereview&logoColor=ffffff&style=for-the-badge)]()
 
 [![c](https://img.shields.io/badge/--A8B9CC?logo=C&logoColor=ffffff)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![c++](https://img.shields.io/badge/--00599C?logo=C%2B%2B&logoColor=ffffff)](https://en.cppreference.com/w/)
