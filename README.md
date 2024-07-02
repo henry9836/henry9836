@@ -3,13 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry9836&hide=Mathematica,ShaderLab,Objective-C,CMake,HTML,Objective-C%2B%2B,CSS,Smalltalk&langs_count=8&layout=compact&theme=dark&border_color=1c1c1c&title_color=8c49e9)](https://github.com/anuraghazra/github-readme-stats)
 
 ------
-[![Header](https://img.shields.io/badge/-Social-792EE5?logo=livechat&logoColor=ffffff&style=for-the-badge)]()
-
-<a href="https://sleep-deficiency-studio.itch.io/" target="_blank">![Itch.io](https://img.shields.io/badge/-Itch.io-blue?logo=Itch.io&logoColor=FFFFFF&labelColor=FA5C5C&color=grey&style=flat-square) </a>
-<a href="https://www.linkedin.com/in/henry-oli/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=FFFFFF&labelColor=0a66c2&color=grey&style=flat-square) </a>
-<a href="https://www.youtube.com/channel/UCdaILXjGeEoBjOC0pGRsLFA" target="_blank">![Itch.io](https://img.shields.io/badge/-YouTube-blue?logo=YouTube&logoColor=FFFFFF&labelColor=FF0000&color=grey&style=flat-square) </a>
-
-------
 [![Header](https://img.shields.io/badge/-TECHNOLOGIES-792EE5?logo=codereview&logoColor=ffffff&style=for-the-badge)]()
 
 [![c](https://img.shields.io/badge/--A8B9CC?logo=C&logoColor=ffffff)](https://en.wikipedia.org/wiki/C_(programming_language))
